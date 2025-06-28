@@ -1,0 +1,11 @@
+# replace the "./" in the paths for Exec and Icon with 
+# the installation directory path for CoolTerm on
+# your system
+[Desktop Entry]
+Name=CoolTerm
+Comment=Serial Terminal
+Exec=./CoolTerm 
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=./CoolTerm Resources/appicon_128.png
